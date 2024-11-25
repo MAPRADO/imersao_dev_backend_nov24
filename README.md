@@ -16,11 +16,11 @@ Node.js é uma plataforma muito popular para desenvolvimento back-end por sua ef
 
 ## Back-end rodando no Google Cloud Platform
 
-![Tela da aplicação](uploads\backend_rodando_googleCloud.png)
+![Tela da aplicação](uploads/backend_rodando_googleCloud.png)
 
 ## Front-end local para teste da API
 
-![Tela da aplicação](uploads\front_aplicacao.png)
+![Tela da aplicação](uploads/front_aplicacao.png)
 
 ## Tecnologias utilizadas no projeto
 
