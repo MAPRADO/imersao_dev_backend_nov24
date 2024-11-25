@@ -10,6 +10,18 @@ Node.js é uma plataforma muito popular para desenvolvimento back-end por sua ef
 
 É amplamente utilizado por empresas e desenvolvedores para construir aplicações robustas e rápidas.
 
+## Link para API do Projeto
+
+> Link final para a API backend no Google Cloud Platform: [API do serviço](https://imersaodevbackendnov24-201375310188.southamerica-east1.run.app/posts).
+
+## Back-end rodando no Google Cloud Platform
+
+![Tela da aplicação](uploads\backend_rodando_googleCloud.png)
+
+## Front-end local para teste da API
+
+![Tela da aplicação](uploads\front_aplicacao.png)
+
 ## Tecnologias utilizadas no projeto
 
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
@@ -19,8 +31,6 @@ Node.js é uma plataforma muito popular para desenvolvimento back-end por sua ef
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
 > Além dos serviços Google Gemini, API Google AI Studio e da ferramenta Thunder Client.
-
-## Link para API do Projeto
-
-> Acesse o link para a [API do serviço](https://pages.github.com/).
+>
